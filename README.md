@@ -1,4 +1,4 @@
-Hello there
+Hello there!
 
 I am Paulo Henrique, a software engineer-focused developer with a solid foundation in logic, architecture, and programming languages. My technical foundation was built through the Integrated Technical Course in Systems Development at Senai São Paulo and the [CS50](https://github.com/cs50) Computer Science course from Harvard Online, completed in partnership with Fundação Estudar.
 
